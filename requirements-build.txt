@@ -1,0 +1,8 @@
+-r requirements.txt
+geopandas>=1.0
+shapely>=2.0
+pyproj>=3.6
+# facultatif : captures d'écran (tools/capture.py, tools/check_overflow.py) et tests
+playwright
+pillow
+axe-playwright-python

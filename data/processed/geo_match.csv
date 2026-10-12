@@ -1,0 +1,41 @@
+nom_contour,cle_rgph,methode,statut,prefecture_rgph
+Agoe-Nyive,AGOE NYIVE,identique après normalisation,OK,Agoè-Nyivé
+Agou,AGOU,identique après normalisation,OK,Agou
+Akebou,AKEBOU,identique après normalisation,OK,Akébou
+Amou,AMOU,identique après normalisation,OK,Amou
+Anie,ANIE,identique après normalisation,OK,Anié
+Assoli,ASSOLI,identique après normalisation,OK,Assoli
+Ave,TOTOAL AVE,alias (nom de la préfecture dans le RGPH),OK,Avé
+Bas-Mono,BAS MONO,identique après normalisation,OK,Bas-Mono
+Bassar,BASSAR,identique après normalisation,OK,Bassar
+Binah,BINAH,identique après normalisation,OK,Binah
+Blitta,BLITTA,identique après normalisation,OK,Blitta
+Cinkasse,CINKASSE,identique après normalisation,OK,Cinkassé
+Dankpen,DANKPEN,identique après normalisation,OK,Dankpen
+Danyi,DANYI,identique après normalisation,OK,Danyi
+Doufelgou,DOUFELGOU,identique après normalisation,OK,Doufelgou
+Est-Mono,EST MONO,identique après normalisation,OK,Est-Mono
+Golfe,GOLFE,identique après normalisation,OK,Golfe
+Haho,HAHO,identique après normalisation,OK,Haho
+Keran,KERAN,identique après normalisation,OK,Kéran
+Kloto,KLOTO,identique après normalisation,OK,Kloto
+Kozah,KOZAH,identique après normalisation,OK,Kozah
+Kpele,KPELE,identique après normalisation,OK,Kpélé
+Kpendjal,KPENDJAL,identique après normalisation,OK,Kpendjal
+Lacs,LACS,identique après normalisation,OK,Lacs
+Lome Commune,GOLFE,fusionné dans Golfe (le RGPH ne distingue pas la commune de Lomé),OK,Golfe
+Moyen-Mono,MOYEN MONO,identique après normalisation,OK,Moyen-Mono
+Naki-Ouest,KPENDJAL OUEST,alias par chef-lieu ; validé spatialement (tools/check_geo_spatial.py : routes déclarées Kpendjal-Ouest dans ce polygone),OK (validé spatialement),Kpendjal-Ouest
+Ogou,OGOU,identique après normalisation,OK,Ogou
+Oti,OTI,identique après normalisation,OK,Oti
+Oti-Sud,OTI SUD,identique après normalisation,OK,Oti-Sud
+Plaine du Mo,MO,"alias (même territoire, nom différent)",OK,Mô
+Sotouboua,SOTOUBOUA,identique après normalisation,OK,Sotouboua
+Tandjoare,TANDJOARE,identique après normalisation,OK,Tandjoaré
+Tchamba,TCHAMBA,identique après normalisation,OK,Tchamba
+Tchaoudjo,TCHAOUDJO,identique après normalisation,OK,Tchaoudjo
+Tone,TONE,identique après normalisation,OK,Tône
+Vo,VO,identique après normalisation,OK,Vo
+Wawa,WAWA,identique après normalisation,OK,Wawa
+Yoto,YOTO,identique après normalisation,OK,Yoto
+Zio,ZIO,identique après normalisation,OK,Zio

@@ -1,0 +1,271 @@
+nom_etablissement,region,prefecture,commune,canton,statut,agreee,lon,lat,cle_pref
+Auto-école Nouvelle,Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Agréée,True,1.1381004717211132,8.9831547852801,TCHAOUDJO
+Auto-école la Prudence Pagala Gare,Centrale,Blitta,Blitta 1,Pagala-Gare,Non agréée,False,0.9880383333333334,8.177550000000002,BLITTA
+Auto-école la Nouvelle Blitta,Centrale,Blitta,Blitta 1,Blitta,Non agréée,False,0.9829727215157458,8.328168710609889,BLITTA
+Auto-école Pugnus Dei Sotouboua,Centrale,Sotouboua,Sotouboua 1,Sotouboua,Agréée (antenne),True,0.9849933333333334,8.557409999999999,SOTOUBOUA
+Auto-école le leader Sotouboua,Centrale,Sotouboua,Sotouboua 1,Sotouboua,Non agréée,False,0.9874599999999999,8.557846666666666,SOTOUBOUA
+Auto-école les Intègres,Centrale,Sotouboua,Sotouboua 1,Sotouboua,Non agréée,False,0.9788183333333333,8.564878333333333,SOTOUBOUA
+Auto-école la Référence Sotouboua,Centrale,Sotouboua,Sotouboua 1,Sotouboua,Agréée (antenne),True,0.9757658000000002,8.5606435,SOTOUBOUA
+Auto-école,Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,Non agréée,False,0.7296441082691845,7.1305693779212325,KPELE
+Auto-école la Nouvelle Wassouwa,Centrale,Tchamba,Tchamba 1,Tchamba,Non agréée,False,1.4229366666666672,9.026503333333334,TCHAMBA
+Auto-école la Nouvelle Djama,Centrale,Tchamba,Tchamba 3,Kaboli,Non agréée,False,1.586553333333333,8.751013333333331,TCHAMBA
+Auto-école à Dieu la Gloire Akamadé,Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Agréée (antenne),True,1.1166703303761731,8.989919613829478,TCHAOUDJO
+Auto-école l'Identite,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2054697306598223,6.18199980788579,GOLFE
+Auto-école Mawena,Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Non agréée,False,1.1330576606949863,8.987355843236807,TCHAOUDJO
+Auto-école Sourou,Centrale,Tchaoudjo,Tchaoudjo 1,Sokodè (Komah),Non agréée,False,1.1440829024927996,8.977114560798848,TCHAOUDJO
+Auto-école Luli,Grand Lomé,Golfe,Golfe 6,Baguida,Non agréée,False,1.3694466666666671,6.1867,GOLFE
+Auto-école Tu es Mon Berger,Grand Lomé,Golfe,Golfe 6,Baguida,Non agréée,False,1.349706666666667,6.1797683333333335,GOLFE
+Auto-école Damaris Avépozo,Grand Lomé,Golfe,Golfe 6,Baguida,Agréée (antenne),True,1.3442716666666674,6.169588333333333,GOLFE
+Auto-école Shalom Paix,Grand Lomé,Golfe,Golfe 6,Baguida,Agréée,True,1.307971666666667,6.158628333333334,GOLFE
+Auto-école  Shalom,Grand Lomé,Golfe,Golfe 6,Baguida,Non agréée,False,1.3381516666666669,6.177006666666667,GOLFE
+Auto-école le Rocher,Grand Lomé,Golfe,Golfe 6,Baguida,Non agréée,False,1.3668733333333336,6.1765516666666676,GOLFE
+Auto-école Bon Berger,Grand Lomé,Golfe,Golfe 6,Baguida,Non agréée,False,1.3267888098403935,6.171855029152451,GOLFE
+Auto-école le Savoir,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Agréée,True,1.2101729000000003,6.270193599999999,AGOE NYIVE
+Auto-école Nzambe-Nzambe Agoè,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée (antenne),True,1.2085116666666667,6.251951666666669,AGOE NYIVE
+Auto-école la Vie,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Non agréée,False,1.1992118,6.2589273,AGOE NYIVE
+Auto-école Alito École,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Non agréée,False,1.2062733333333333,6.255273333333333,AGOE NYIVE
+Auto-école la Sainte Etoile,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.182878333333334,6.218123333333334,AGOE NYIVE
+Auto-école MKAF Togo,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1875208076772852,6.21689412969734,AGOE NYIVE
+Auto-école du Golfe Klévé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.198125836166056,6.2220870576389915,AGOE NYIVE
+Auto-école Oumar,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2114981964243627,6.232188129077177,AGOE NYIVE
+Auto-école Korgo,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.214936433860318,6.224957843022701,AGOE NYIVE
+Auto-école le Courage,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1799283947236716,6.243413469411037,AGOE NYIVE
+Auto-école du Golfe Adétikopé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Agréée (antenne),True,1.2183549999999999,6.325763333333334,AGOE NYIVE
+Auto-école les Elus de Dieu,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1750101774679038,6.225657994972941,AGOE NYIVE
+Auto-école Sous les Ailes de Dieu Anomé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée (antenne),True,1.1847008123261473,6.215990873100693,AGOE NYIVE
+Auto-école du Golfe Carefour bleu,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.2052416666666668,6.225473333333334,AGOE NYIVE
+Auto-école Sissonne,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2111716666666668,6.229001666666666,AGOE NYIVE
+Auto-école Caba,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2128364567012713,6.230940105142965,AGOE NYIVE
+Auto-école defi Focus,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2220273444157101,6.226362919403873,AGOE NYIVE
+Auto-école les Experts,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Non agréée,False,1.2216147556130292,6.3152280934768354,AGOE NYIVE
+Auto-école ma Reussite Annexe Amarinta,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Non agréée,False,1.1403716666666663,6.2476216666666655,AGOE NYIVE
+Auto-école TNI (Togo Nouvelle Impression) Cacavéli,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée (antenne),True,1.199216666666667,6.211294999999999,AGOE NYIVE
+Auto-école MHJH,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1913633333333327,6.172861666666667,GOLFE
+Auto-école Baptrans,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1805528107437013,6.177851106070137,GOLFE
+Auto-école du Golfe Legbasokpé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Agréée,True,1.1634919181941068,6.260329073759687,AGOE NYIVE
+Auto-école Winner Sogbossito,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1663251666793775,6.2575615883776035,AGOE NYIVE
+Auto-école St Kotey,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Non agréée,False,1.1702883333333327,6.217493333333334,AGOE NYIVE
+Auto-école J.le Rocher,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1917650000000002,6.189650000000001,GOLFE
+Auto-école BAMB-SIS Agbalédogan,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1972710786259,6.2015930306613996,AGOE NYIVE
+Auto-école  Saint Christophe Agbalépédo,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1964545431925169,6.200091141807959,GOLFE
+Auto-école le Gold,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1968700000000008,6.182664999999998,GOLFE
+Auto-école ma Reussite Téléssou,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Non agréée,False,1.170595456631288,6.2144122192188425,AGOE NYIVE
+Auto-école Gnamassigan,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 4,Togblekope,Non agréée,False,1.177750775808559,6.266452865653485,AGOE NYIVE
+Auto-école la Gracieuse Légbassito,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Agréée (antenne),True,1.1497758856224451,6.266675862585643,AGOE NYIVE
+Auto-école le Genie Sogbossito,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1752599999999995,6.251276666666666,AGOE NYIVE
+Auto-école Abraham Lincoln,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Agréée,True,1.1745693225887075,6.214430782681505,AGOE NYIVE
+Auto-école la Liberté Doumasséssé,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2154208808748534,6.163382809299719,GOLFE
+Auto-école Afrique C.A,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2057187052469736,6.184199894810828,GOLFE
+Auto-école le Retour,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2162033333333337,6.157608333333332,GOLFE
+Auto-école CF le leader,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2067283333333338,6.185483333333333,GOLFE
+Auto-école B Groupe,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.177406666666667,6.250873333333333,AGOE NYIVE
+Auto-école Adjrad_Togo,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1982482311710527,6.24216359911231,AGOE NYIVE
+Auto-école TNI (Togo Nouvelle Impression) Démakpoè,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée (antenne),True,1.2016347551628122,6.241847379845974,AGOE NYIVE
+Auto-école Winner Assiyéyé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1987866666666673,6.230588333333333,AGOE NYIVE
+Auto-école Basililela Soted,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée (antenne),True,1.2206866666666671,6.152381666666667,GOLFE
+Auto-école la Gracieuse Doumasséssé,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.220859012567111,6.164817876690038,GOLFE
+Auto-école Nzambe-Nzambe Ramco,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée (antenne),True,1.2201200000000005,6.143261666666664,GOLFE
+Auto-école Togo Express,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2278808960433485,6.162413241361006,GOLFE
+Auto-école Gratia,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2366550000000003,6.187848333333332,GOLFE
+Auto-école l'Eternel,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.179964355010482,6.201641865417299,GOLFE
+Auto-école Sous les Ailes de Dieu Amadahomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.1556788990828957,6.200394037600347,GOLFE
+Auto-école Dieudonne Wognomé,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Agréée (antenne),True,1.1447733333333334,6.201136666666668,GOLFE
+Auto-école les Amis Ségbé,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Agréée (antenne),True,1.1015266666666672,6.199731666666665,GOLFE
+Auto-école GPS Togo,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1031101312830456,6.199796319483418,GOLFE
+Auto-école TNI (Togo Nouvelle Impression) Vakpossito,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Agréée,True,1.161558333333334,6.218114296993237,AGOE NYIVE
+Auto-école Sainte Famille Logogomé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Agréée (antenne),True,1.1508166666666668,6.213768333333334,AGOE NYIVE
+Auto-école le Bonheur,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1727650000000005,6.238208333333334,AGOE NYIVE
+Auto-école Mercy,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.191038333333333,6.2325,AGOE NYIVE
+Auto-école la Joie Wognomé,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1502500000000002,6.191404999999998,GOLFE
+Auto-école VCP,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1130311414048273,6.218912416896335,GOLFE
+Auto-école Marcoly,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1374942137275974,6.209690400732908,GOLFE
+Auto-école Emmanuel Conduite,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.126058333333333,6.193166666666667,GOLFE
+Auto-école la Renaissance Logoté,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Agréée,True,1.1316522605103156,6.193425399029946,GOLFE
+Auto-école Forever,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1423415197699514,6.193226629802008,GOLFE
+Auto-école Chara,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1444983333333334,6.1936149999999985,GOLFE
+Auto-école Sainte Famille Wognomé,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Agréée,True,1.1584337877419204,6.189068834586941,GOLFE
+Auto-école le Permis Yokoè,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1430919671290058,6.176499461154605,GOLFE
+Auto-école Tam 228,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Non agréée,False,1.159803333333333,6.209399999999999,AGOE NYIVE
+Auto-école Beraca Bered,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Non agréée,False,1.1521166666666678,6.217698333333333,AGOE NYIVE
+Auto-école KMK Téléssou,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1762416666666673,6.1957533333333314,GOLFE
+Auto-école Citoyenne Inclusive,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1662933333333334,6.20357,GOLFE
+Auto-école la Capitale,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Non agréée,False,1.1596534261198543,6.220302674772593,AGOE NYIVE
+Auto-école Dieudonne Nanégbé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 3,Vakpossito,Agréée,True,1.1570192320255284,6.229642333244105,AGOE NYIVE
+Auto-école le Reveil,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.146595,6.2055533333333335,GOLFE
+Auto-école Groupe Chez Toi,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1631633333333333,6.2437700000000005,AGOE NYIVE
+Auto-école la Nature,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1626453146736735,6.236132855456439,AGOE NYIVE
+Auto-école St Justin,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2170666666666674,6.155031666666667,GOLFE
+Auto-école L'Itineraire Forever,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2268650000000008,6.160558333333332,GOLFE
+Auto-école Dieu Seul Suffit,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2343572757854386,6.17814728040377,GOLFE
+Auto-école à Dieu la Gloire Agbalépédogan,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.199397840217735,6.1973694520591405,GOLFE
+Auto-école Gloire à Dieu Aflao-Gakli,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.1889133333333333,6.17233,GOLFE
+Auto-école Saint Elie Annexe,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.1992415792649476,6.170103008168669,GOLFE
+Auto-école le leader Totsi,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1884950000000003,6.197031666666668,GOLFE
+Auto-école Dieu Grace,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Non agréée,False,1.229066666666667,6.3212866666666665,AGOE NYIVE
+Auto-école  Saint Christophe Annexe Tsivé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 6,Adétikopé,Agréée (antenne),True,1.2149700000000008,6.3178849999999995,AGOE NYIVE
+Auto-école Dakopas,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1533070021818277,6.180571356135353,GOLFE
+Auto-école CFC Sarl,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.201546731895331,6.179983556574924,GOLFE
+Auto-école Jesus T'aime,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.146415,6.178336666666667,GOLFE
+Auto-école la Joie Awatamé,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1624308854453222,6.180061693446676,GOLFE
+Auto-école Bon Conducteur,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Non agréée,False,1.1384963168719777,6.17741434898323,GOLFE
+Auto-école Basileia Klikamé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Agréée (antenne),True,1.1145445758428403,6.250722010179545,AGOE NYIVE
+Auto-école Mega Succès,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Non agréée,False,1.117213163454005,6.227652510561415,AGOE NYIVE
+Auto-école le Génie Zopomahé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Agréée (antenne),True,1.1474848457778564,6.23363345884964,AGOE NYIVE
+Auto-école des Grape,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1874166666666666,6.183361666666668,GOLFE
+Auto-école la Dignite Sûr,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.202668333333334,6.194548333333333,GOLFE
+Auto-école Adonaï Adidogomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.1787966666666672,6.176594999999998,GOLFE
+Auto-école L2CI,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2001500918119163,6.1990899084027244,AGOE NYIVE
+Auto-école Damaris Casablanca,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2020446,6.1486219,GOLFE
+Auto-école Feu Vert,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1967500000000006,6.177315000000002,GOLFE
+Auto-école Amenouvévé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.2042450000000002,6.186493333333333,GOLFE
+Auto-école la Renaissance Djidjolé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1882133333333338,6.181489999999999,GOLFE
+Auto-école la Vision,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.2021816666666663,6.178543333333332,GOLFE
+Auto-école la Sympatique,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2044316666666668,6.176146666666667,GOLFE
+Auto Ecole / Garage la Patience,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1841583333333332,6.198431666666666,GOLFE
+Auto-école St Antoine Junior,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1813957858779862,6.191757771230936,GOLFE
+Auto-école les Prodiges,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2024873838674335,6.173072176668036,GOLFE
+Auto-école le Gar,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.2058822511445,6.180312585039518,GOLFE
+Auto-école ICAE-Vie,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1838816666666665,6.197978333333333,GOLFE
+Auto-école Djifa,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.185565985539394,6.189940384627703,GOLFE
+Auto-école le Creneau,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1751366666666674,6.190169999999999,GOLFE
+Auto-école Rabbouni,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1500399999999995,6.199046666666666,GOLFE
+Auto-école CFCP,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1713509698210836,6.200422422515475,GOLFE
+Auto-Ecole CV-AV,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1533746648672873,6.199544222765724,GOLFE
+Auto-école la Prudence Adidogomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1791084573644872,6.185009058894415,GOLFE
+Auto-école les Amis Adidogomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée (antenne),True,1.1681049999999993,6.181533333333335,GOLFE
+Auto-école Ava-Togo Adidogomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1508349999999994,6.203371666666668,GOLFE
+Auto-école le Jalon,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1588466666666668,6.1987016666666666,GOLFE
+Auto-école Merveilles de Paris,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1866331516324233,6.20740489002387,AGOE NYIVE
+Auto-école Adonaï Agbalépédogan,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2075833910232152,6.188512960678962,GOLFE
+Auto-école Dieu Merci Agbalépédogan,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1925266666666667,6.196786666666665,GOLFE
+Auto-école la Colombe de Dieu Annexe,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.187888333333334,6.206473333333335,AGOE NYIVE
+Auto-école BM FEOP,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.2053166666666668,6.19956,AGOE NYIVE
+Auto-école ONG Domino,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2453460894532717,6.1448207409752955,GOLFE
+Auto-école la Référence Houvémé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2492262048428784,6.147984792036858,GOLFE
+Auto-école Saint Antoine de Padoue,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2543852322066162,6.136101278951408,GOLFE
+Auto-école Emmanuel Jules,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.235801714109525,6.1435482418317715,GOLFE
+Auto-école la Liberté Akato,Grand Lomé,Golfe,Golfe 7,Aflao-Sagbado,Agréée (antenne),True,1.0989683333333333,6.2033933333333335,GOLFE
+Auto-école Basileia Gbossimé,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée (antenne),True,1.2047633333333334,6.159006666666667,GOLFE
+Auto-école Saint Kizito Bè Hédzé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2439466666666663,6.147713333333332,GOLFE
+Auto-école THV,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2558936734708845,6.13647974897605,GOLFE
+Auto-école Diipesha,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2554529188558758,6.14785473696195,GOLFE
+Auto-école Rapha Bè Kpota,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2467189225578386,6.152805466266955,GOLFE
+Auto-école du Mono,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2615141120257083,6.136625342074,GOLFE
+Auto-école Pas de Temps,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2449009123698282,6.15238311686108,GOLFE
+Auto-école le Genie Souza Nètimé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2358171560192586,6.137109839428764,GOLFE
+Auto-école la Lumiere,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2660399999999998,6.157544999999999,GOLFE
+Auto-école Richmond,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2432383333333334,6.137831666666666,GOLFE
+Auto-école Moderne,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2649747812850825,6.153873266610683,GOLFE
+Auto-école St GK,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1716183333333337,6.252565000000001,AGOE NYIVE
+Auto-école le Requin,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2666438518113032,6.16374566326345,GOLFE
+Auto-école à Dieu la Gloire Bè,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2753943770261118,6.175815977433112,GOLFE
+Auto-école Ecole JADS,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.262223218405205,6.160959381838679,GOLFE
+Auto-école le Professeur,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2676333371633681,6.1781458791487625,GOLFE
+Auto-école J.charmer,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Non agréée,False,1.2413744305875263,6.151178717573525,GOLFE
+Auto-école Emaris,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2755823000651545,6.1785082320962,GOLFE
+Auto-école le Genie Logopé,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1866553046907016,6.233949060373368,AGOE NYIVE
+Auto-école Awara,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1851066666666674,6.234589999999998,AGOE NYIVE
+Auto-école KMK Sarl Annexe,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.182116666666667,6.230106666666667,AGOE NYIVE
+Auto-école le Genie Afamé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2791200000000011,6.168874999999999,GOLFE
+Auto-école Dieu Merci,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2918499255797147,6.169704966522096,GOLFE
+Auto-école Saint Kizito Zoro Bar,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2831279110434608,6.167025768668737,GOLFE
+Auto-école Saint Kizito Kagomé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2983703200552288,6.167819153285302,GOLFE
+Auto-école la Puissance Divine Sabeto,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2820816666666672,6.174011666666666,GOLFE
+Auto-école la Puissance Divine Adakpamé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2896603201688392,6.171071095937135,GOLFE
+Auto-école l'étoile,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2405699999999997,6.216573333333334,GOLFE
+Auto-école Dieu Merci Adakpamé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Non agréée,False,1.2891266666666668,6.167624999999998,GOLFE
+Auto-école St Paul,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Non agréée,False,1.2417716666666665,6.158188333333334,GOLFE
+Auto-école Malembe Malembe,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Non agréée,False,1.254828412999465,6.188855334180798,GOLFE
+Auto-école Rapha Wuiti-Nukafu,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée (antenne),True,1.2399206163414642,6.163057762691574,GOLFE
+Auto-école la Perseverance,Grand Lomé,Golfe,Golfe 4,Amoutivé,Non agréée,False,1.2197308877142081,6.137236990088388,GOLFE
+Auto-école CFC-PRO SARL,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Non agréée,False,1.208839037322003,6.179498213804031,GOLFE
+Auto-école Petit Jesus,Grand Lomé,Golfe,Golfe 4,Amoutivé,Non agréée,False,1.2112786628034622,6.148260670274587,GOLFE
+Auto-école Amen,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1888566666666671,6.241486666666665,AGOE NYIVE
+Auto-école le Citoyen,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1666043026445259,6.2435083548325325,AGOE NYIVE
+Auto-école les Benis,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.20052523971031,6.235151174169916,AGOE NYIVE
+Auto-école le Reccord,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Non agréée,False,1.1932399999999992,6.224793333333335,AGOE NYIVE
+Auto-école Nzambe-Nzambe Dekon,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée (antenne),True,1.2341946993006796,6.134486700471797,GOLFE
+Auto-école Nzambe-Nzambe Kegue,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée,True,1.2411228581563578,6.201321012932121,GOLFE
+Auto-école Nzambe-Nzambe Hedzranawoe,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée (antenne),True,1.2442916666666668,6.170398333333332,GOLFE
+Auto-école l'internationale Pilote,Grand Lomé,Golfe,Golfe 4,Amoutivé,Non agréée,False,1.22888,6.138706666666665,GOLFE
+Auto-école Basileia  Abové,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2047504038396144,6.165303403778479,GOLFE
+Auto-école la Maitrise,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.2043283333333341,6.126713333333333,GOLFE
+Auto-école le Gouverneur,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2068400000000001,6.152945,GOLFE
+Auto-école Deo Compassion,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée,True,1.238105,6.159020000000001,GOLFE
+Auto-école Nzambe Nzambe Tinga,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée (antenne),True,1.2481522262201863,6.201197072965417,GOLFE
+Auto-école OCDI,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2097865522019817,6.1490815635885605,GOLFE
+Auto-école FCAM,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.2027983333333332,6.1263733333333334,GOLFE
+Auto-école la Patience,Grand Lomé,Golfe,Golfe 4,Amoutivé,Non agréée,False,1.2136883333333335,6.131481666666667,GOLFE
+Auto-école AE,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Non agréée,False,1.2336333714600851,6.158349656503773,GOLFE
+Auto-école Guilgal,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée,True,1.2418071590434765,6.185811851383592,GOLFE
+Auto-école Grace Of God,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.2146854314992657,6.148453335079997,GOLFE
+Auto-école Freeway,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Agréée,True,1.12098,6.230416116312027,AGOE NYIVE
+Auto-école Mega Succes,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 5,Sanguera,Non agréée,False,1.1171966666666666,6.227661666666668,AGOE NYIVE
+Auto-école la Classe,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Non agréée,False,1.1588376871019987,6.249764266525649,AGOE NYIVE
+Auto-école Gloire à Dieu Légbassito,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée (antenne),True,1.1731267383815116,6.247622705924113,AGOE NYIVE
+Auto-école St Francois,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 2,Légbassito,Non agréée,False,1.1576513448196448,6.255821814843985,AGOE NYIVE
+Auto-école le Defi Septemtrion,Kara,Kozah,Kozah 1,Commune De Kara,Agréée,True,1.217915000000001,9.562229999999998,KOZAH
+Auto-école Securite Pour Tous,Kara,Kozah,Kozah 1,Commune De Kara,Agréée,True,1.197487640222207,9.54737364568313,KOZAH
+Auto-école Bon Courage Kparatao,Kara,Assoli,Assoli 1,Bafilo,Agréée (antenne),True,1.2464165384878731,9.362072719279846,ASSOLI
+Auto-école la Connaissance,Kara,Kozah,Kozah 1,Commune De Kara,Non agréée,False,1.2079083333333336,9.559028333333336,KOZAH
+Auto-école Agbeteo,Kara,Kozah,Kozah 1,Commune De Kara,Non agréée,False,1.1858649999999993,9.545140000000002,KOZAH
+Auto-école la Bienvenue,Kara,Kozah,Kozah 1,Commune De Kara,Non agréée,False,1.2051278936355518,9.556609215759348,KOZAH
+Auto-école Pugnus Dei Welade,Kara,Kozah,Kozah 1,Commune De Kara,Agréée,True,1.1934021863481121,9.557288518275392,KOZAH
+Auto-école les Grands Patassoukomé,Kara,Kozah,Kozah 1,Commune De Kara,Agréée (antenne),True,1.1883199999999998,9.547373333333335,KOZAH
+Auto-école Bon Courage Awaou,Kara,Kozah,Kozah 1,Commune De Kara,Agréée,True,1.1973950000000002,9.545631666666665,KOZAH
+Auto-école le Sauveur Vient,Kara,Kozah,Kozah 1,Commune De Kara,Agréée,True,1.2026316666666665,9.551556666666666,KOZAH
+Auto-école de la Kozah,Kara,Kozah,Kozah 1,Commune De Kara,Non agréée,False,1.19315,9.568231666666666,KOZAH
+Auto-école Sajer,Kara,Kozah,Kozah 1,Commune De Kara,Non agréée,False,1.1914700000000003,9.548641666666667,KOZAH
+Auto-école la Satisfaction,Kara,Bassar,Bassar 1,Bassar,Non agréée,False,0.7856883333333328,9.272320000000002,BASSAR
+Auto-école les Intégrés,Kara,Bassar,Bassar 1,Bassar,Non agréée,False,0.7799816666666667,9.273484999999996,BASSAR
+Auto-école Saint Jules Agbodan,Maritime,Lacs,Lacs 3,Gbodjomé,Agréée (antenne),True,1.4165491173625513,6.206722459544289,LACS
+Auto-école Damaris Agbavi,Maritime,Lacs,Lacs 3,Gbodjomé,Agréée (antenne),True,1.3947366666666672,6.189736666666666,LACS
+Auto-école le Berger,Maritime,Lacs,Lacs 4,Anfoin,Non agréée,False,1.6101466666666668,6.327245,LACS
+Auto-école Merciful God,Maritime,Zio,Zio 1,Tsévié,Agréée,True,1.212641027950797,6.4318829525443215,ZIO
+Auto-école Domino,Maritime,Vo,Vo 1,Vogan,Agréée,True,1.529565847662365,6.333567118068137,VO
+Auto-école Musai Togo,Maritime,Bas-Mono,Bas-Mono 1,Afagnangan,Non agréée,False,1.6252950000000002,6.493359999999999,BAS MONO
+Auto-école Saint Kizito Agbemavo,Maritime,Vo,Vo 1,Vogan,Agréée (antenne),True,1.5232577074397766,6.340452162204777,VO
+Auto-école Levireste,Maritime,Lacs,Lacs 1,Canton D’Aneho,Non agréée,False,1.6138872290738617,6.23845617168974,LACS
+Auto-école Amea,Maritime,Yoto,Yoto 1,Tabligbo,Non agréée,False,1.4962366666666669,6.595243333333333,YOTO
+Auto-école  Nazareth,Maritime,Vo,Vo 1,Vogan,Non agréée,False,1.5365049999999998,6.332456666666667,VO
+Auto-école Radji Badou,Plateaux,Wawa,Wawa 1,Badou,Agréée (antenne),True,0.6071514324499167,7.585032065377712,WAWA
+Auto-école le Succès Badou,Plateaux,Wawa,Wawa 1,Badou,Agréée (antenne),True,0.6061234607489381,7.586761986776104,WAWA
+Auto-école Radji Agbonou Gare,Plateaux,Ogou,Ogou 1,Djama,Agréée,True,1.1555658408637117,7.514350263949505,OGOU
+Auto-école El Dorado,Plateaux,Amou,Amou 2,Amou-Oblo,Non agréée,False,0.8667490235678944,7.386249664445304,AMOU
+Auto-école Alhamoudou,Plateaux,Anié,Anié 1,Anié,Agréée,True,1.1934433333333334,7.776311666666667,ANIE
+Auto-école le Permis Gadjépé,Plateaux,Agou,Agou 1,Agou-Tavié,Non agréée,False,0.7178183333333347,6.846978333333333,AGOU
+Auto-école Dieu Seul T'aime,Plateaux,Kloto,Kloto 1,Agome-Kpalime,Agréée,True,0.6312916958990441,6.9087690649124065,KLOTO
+Auto-école Ouro,Plateaux,Kloto,Kloto 1,Agome-Kpalime,Agréée,True,0.6355235702839034,6.9079452875345195,KLOTO
+Auto-école Radji Adéta,Plateaux,Kpélé,Kpélé 1,Kpélé-Novivé,Agréée (antenne),True,0.7317775012483716,7.121065097049891,KPELE
+Auto-école Gloire à Dieu Kpalimé,Plateaux,Kloto,Kloto 1,Agome-Kpalime,Agréée,True,0.6350270646918732,6.899704692673049,KLOTO
+Auto-école Prospera,Savanes,Cinkassé,Cinkassé 1,Cinkassé,Non agréée,False,0.0080033333333343,11.099995000000002,CINKASSE
+Auto-école Yendam,Savanes,Tône,Tône 1,Dapaong,Non agréée,False,0.1955800000000011,10.86337,TONE
+Auto-école Ak Prosper Tin-Salingue Timgdal,Savanes,Tône,Tône 1,Dapaong,Agréée (antenne),True,0.2034469523461212,10.87591216056162,TONE
+Auto-école le Défi,Savanes,Tône,Tône 1,Dapaong,Non agréée,False,0.2114283333333338,10.856644999999999,TONE
+Auto-école Prosper AK,Savanes,Tône,Tône 1,Dapaong,Agréée,True,0.2104450000000004,10.85675,TONE
+Auto-école les Grands Kombonloaga,Savanes,Tône,Tône 1,Dapaong,Agréée,True,0.1995183333333333,10.869764999999997,TONE
+Auto-école Prosperak Annex Mango,Savanes,Oti,Oti 1,Mango,Non agréée,False,0.4757084420586872,10.353916434151662,OTI
+Auto-école Sawari,Savanes,Oti,Oti 1,Mango,Non agréée,False,0.4747766666666678,10.354496666666666,OTI
+Auto-école la delivrance,Savanes,Oti,Oti 2,Barkoissi,Non agréée,False,0.3030199436234801,10.553197156780227,OTI
+Auto-école AK Prospere Tin-Salingue Cinkanssé,Savanes,Cinkassé,Cinkassé 1,Cinkassé,Agréée,True,0.0080716666666677,11.099934999999999,CINKASSE
+Auto-école Audacieux,Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée,True,1.2445279304028796,6.191422924963468,GOLFE
+Auto-école Ava Togo Amadahomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Non agréée,False,1.1508523991894193,6.20347046286229,GOLFE
+Auto-école Blessing,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1912042550545003,6.239286006144919,AGOE NYIVE
+Auto-école ESCA (Ecole Supérieure de Conduite Automobile),Grand Lomé,Golfe,Golfe 2,Bè-Centre,Agréée,True,1.2629522056674702,6.196486184784989,GOLFE
+Auto-école Essofa,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1978463240060298,6.209808656520399,AGOE NYIVE
+Auto-école Forrever conduite,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2301080993372802,6.16743063612345,GOLFE
+Auto-école la Fierté,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.2023910339040302,6.2375439855132795,AGOE NYIVE
+Auto-école le Succès Atakpamé,Plateaux,Ogou,Ogou 1,Gnagna,Agréée,True,1.15530114700029,7.498069437651582,OGOU
+Auto-école le Paraclet Houmbi,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.22775833333333,6.21967,AGOE NYIVE
+Auto-école le Salut,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée,True,1.2311366666666703,6.15257166666667,GOLFE
+Auto-école L'Itineraire Annexe Forever,Grand Lomé,Golfe,Golfe 3,Bè-Ouest,Agréée (antenne),True,1.2286209403630899,6.160478995655309,GOLFE
+Auto-école Pasteur,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2469795988164898,6.133015955516349,GOLFE
+Auto-école Romana's,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1711899759907505,6.192601577802109,GOLFE
+Auto-école Saint Elie,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1891524000000002,6.205183299999999,GOLFE
+Auto-école Saint Imamiah quartier des Etoiles,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.2208404398979298,6.132244552930801,GOLFE
+Auto-école Saint Jules Avépozo,Grand Lomé,Golfe,Golfe 6,Baguida,Agréée,True,1.3417266666666705,6.168526666666669,GOLFE
+Auto-école Saint Kizito Adakpamé,Grand Lomé,Golfe,Golfe 1,Bè-Est,Agréée,True,1.2679143702368199,6.163539702174259,GOLFE
+Auto-école Saint Max,Grand Lomé,Agoè-Nyivé,Agoè-Nyivé 1,Agoè-Nyivé,Agréée,True,1.1815012195208312,6.207599322777879,AGOE NYIVE
+Auto-école Sous les Ailles de Dieu Adidoadin,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.1874419400658807,6.20284658592343,GOLFE
+Auto-école Zebra Adidogomé,Grand Lomé,Golfe,Golfe 5,Aflao-Gakli,Agréée,True,1.15917832110672,6.191333287455262,GOLFE
+Auto-école Lobokona Nzambe,Grand Lomé,Golfe,Golfe 4,Amoutivé,Agréée,True,1.2056839780600226,6.129949759549678,GOLFE

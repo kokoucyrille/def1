@@ -1,0 +1,158 @@
+cle_pref,route_type,route_recouvrement,km,troncons,prefecture,region,revetue_observe
+AGOE NYIVE,Route nationale revêtue,Bitume,35.68019822294514,8,Agoè-Nyivé,Grand Lomé,True
+AGOE NYIVE,Voirie urbaine,Bitume,27.401126386993518,4,Agoè-Nyivé,Grand Lomé,True
+AGOU,Piste rurale,Bitume,13.42017077585326,2,Agou,Plateaux,True
+AGOU,Piste rurale,Terre non amenagée,1.5232934211130524,1,Agou,Plateaux,False
+AGOU,Route nationale non revêtue,Bitume,9.433320192499977,3,Agou,Plateaux,True
+AGOU,Route nationale non revêtue,Terre amenagée,24.421186820806042,10,Agou,Plateaux,False
+AGOU,Route nationale non revêtue,Terre non amenagée,2.447561737197331,2,Agou,Plateaux,False
+AGOU,Route nationale revêtue,Bitume,70.71247373799955,16,Agou,Plateaux,True
+AGOU,Route nationale revêtue,Terre amenagée,4.094194639991923,1,Agou,Plateaux,False
+AKEBOU,Route nationale non revêtue,Terre amenagée,8.119598497199858,2,Akébou,Plateaux,False
+AKEBOU,Voirie urbaine,Bitume,2.63419124427769,1,Akébou,Plateaux,True
+AMOU,Route nationale non revêtue,Terre non amenagée,29.39477205397504,4,Amou,Plateaux,False
+AMOU,Route nationale revêtue,Bitume,62.565615686303275,12,Amou,Plateaux,True
+ANIE,Route nationale non revêtue,Bitume,0.05201191913354802,1,Anié,Plateaux,True
+ANIE,Route nationale non revêtue,Terre amenagée,6.429526898271235,1,Anié,Plateaux,False
+ANIE,Route nationale non revêtue,Terre non amenagée,9.86037028264045,1,Anié,Plateaux,False
+ANIE,Route nationale revêtue,Bitume,22.288763605312614,1,Anié,Plateaux,True
+ASSOLI,Route nationale non revêtue,Terre amenagée,32.814973766384774,8,Assoli,Kara,False
+ASSOLI,Route nationale revêtue,Bitume,49.899822429015906,9,Assoli,Kara,True
+ASSOLI,Voirie urbaine,Bitume,0.32603364030410226,1,Assoli,Kara,True
+BAS MONO,Route nationale non revêtue,Terre amenagée,1.8038260103534294,1,Bas-Mono,Maritime,False
+BAS MONO,Route nationale non revêtue,Terre non amenagée,29.04225485757106,4,Bas-Mono,Maritime,False
+BAS MONO,Route nationale revêtue,Bitume,8.52235168526222,2,Bas-Mono,Maritime,True
+BAS MONO,Voirie urbaine,Terre non amenagée,2.762418757987207,1,Bas-Mono,Maritime,False
+BASSAR,Route nationale non revêtue,Terre amenagée,41.637160837682075,3,Bassar,Kara,False
+BASSAR,Route nationale non revêtue,Terre non amenagée,18.060585830000008,4,Bassar,Kara,False
+BASSAR,Route nationale revêtue,Bitume,125.06440134318845,11,Bassar,Kara,True
+BASSAR,Voirie urbaine,Bitume,5.875499576281868,3,Bassar,Kara,True
+BASSAR,Voirie urbaine,Terre non amenagée,5.899710003041462,7,Bassar,Kara,False
+BINAH,Route nationale non revêtue,Terre amenagée,23.961794147788105,3,Binah,Kara,False
+BINAH,Route nationale revêtue,Bitume,23.000807805379544,3,Binah,Kara,True
+BLITTA,Route nationale non revêtue,Terre amenagée,6.788761573962828,1,Blitta,Centrale,False
+BLITTA,Route nationale revêtue,Bitume,119.58411436574336,17,Blitta,Centrale,True
+BLITTA,Voirie urbaine,Bitume,10.156440165124387,6,Blitta,Centrale,True
+CINKASSE,Route nationale non revêtue,Terre amenagée,7.5356923333974155,1,Cinkassé,Savanes,False
+CINKASSE,Route nationale non revêtue,Terre non amenagée,3.589900719791851,1,Cinkassé,Savanes,False
+CINKASSE,Route nationale revêtue,Bitume,26.871887111326956,3,Cinkassé,Savanes,True
+DANKPEN,Route nationale revêtue,Bitume,42.96525584478486,6,Dankpen,Kara,True
+DANYI,Route nationale non revêtue,Terre non amenagée,7.77070430963946,5,Danyi,Plateaux,False
+DANYI,Route nationale revêtue,Bitume,23.99674174666574,10,Danyi,Plateaux,True
+DANYI,Route nationale revêtue,Terre non amenagée,0.6562918028118085,1,Danyi,Plateaux,False
+DANYI,Voirie urbaine,Bitume,17.957974549875967,9,Danyi,Plateaux,True
+DANYI,Voirie urbaine,Terre non amenagée,1.2348355706621537,1,Danyi,Plateaux,False
+DOUFELGOU,Piste rurale,Terre amenagée,7.968345741510971,3,Doufelgou,Kara,False
+DOUFELGOU,Route nationale non revêtue,Terre amenagée,25.14768505495884,10,Doufelgou,Kara,False
+DOUFELGOU,Route nationale revêtue,Bitume,38.9842258756155,6,Doufelgou,Kara,True
+DOUFELGOU,Route nationale revêtue,Terre amenagée,28.20046961555854,4,Doufelgou,Kara,False
+DOUFELGOU,Voirie urbaine,Bitume,0.18803445933754134,1,Doufelgou,Kara,True
+DOUFELGOU,Voirie urbaine,Terre amenagée,0.21799354568851073,1,Doufelgou,Kara,False
+EST MONO,Route nationale non revêtue,Bitume,0.05936523192213782,1,Est-Mono,Plateaux,True
+EST MONO,Route nationale non revêtue,Terre amenagée,20.325159970160506,18,Est-Mono,Plateaux,False
+EST MONO,Route nationale non revêtue,Terre non amenagée,58.859884951308786,21,Est-Mono,Plateaux,False
+EST MONO,Route nationale revêtue,Bitume,13.292660242502008,20,Est-Mono,Plateaux,True
+EST MONO,Voirie urbaine,Bitume,11.188094839591447,1,Est-Mono,Plateaux,True
+GOLFE,Route nationale revêtue,Beton,1.5114047211075783,1,Golfe,Grand Lomé,True
+GOLFE,Route nationale revêtue,Bitume,68.2396344667795,28,Golfe,Grand Lomé,True
+GOLFE,Route nationale revêtue,Terre amenagée,9.610133110498925,1,Golfe,Grand Lomé,False
+GOLFE,Voirie urbaine,Bitume,19.51275535079646,6,Golfe,Grand Lomé,True
+GOLFE,Voirie urbaine,Terre amenagée,0.8462744130132707,1,Golfe,Grand Lomé,False
+HAHO,Route nationale non revêtue,Terre amenagée,33.32019562794829,2,Haho,Plateaux,False
+HAHO,Route nationale revêtue,Bitume,97.16222857887733,10,Haho,Plateaux,True
+HAHO,Voirie urbaine,Gravier non amenagé,0.6978416455036317,1,Haho,Plateaux,False
+HAHO,Voirie urbaine,Terre amenagée,3.2530855254370756,3,Haho,Plateaux,False
+HAHO,Voirie urbaine,Terre non amenagée,1.1060817779892795,3,Haho,Plateaux,False
+KERAN,Route nationale non revêtue,Terre amenagée,28.38706205884821,3,Kéran,Kara,False
+KERAN,Route nationale revêtue,Bitume,41.94071921288713,6,Kéran,Kara,True
+KERAN,Route nationale revêtue,Terre amenagée,12.034060516349278,2,Kéran,Kara,False
+KLOTO,Piste rurale,Bitume,1.7094026860824534,2,Kloto,Plateaux,True
+KLOTO,Route nationale revêtue,Bitume,68.47216393173716,20,Kloto,Plateaux,True
+KLOTO,Voirie urbaine,Bitume,3.2618697065786573,5,Kloto,Plateaux,True
+KLOTO,Voirie urbaine,Terre amenagée,5.861027162093466,3,Kloto,Plateaux,False
+KLOTO,Voirie urbaine,Terre non amenagée,1.1591454737717255,1,Kloto,Plateaux,False
+KOZAH,Route nationale non revêtue,Terre amenagée,5.046882275083171,3,Kozah,Kara,False
+KOZAH,Route nationale non revêtue,Terre non amenagée,9.748008087995293,1,Kozah,Kara,False
+KOZAH,Route nationale revêtue,Bitume,142.68307011771225,36,Kozah,Kara,True
+KOZAH,Route nationale revêtue,Terre amenagée,0.41792168483217873,1,Kozah,Kara,False
+KOZAH,Voirie urbaine,Bitume,4.3825245974487785,4,Kozah,Kara,True
+KOZAH,Voirie urbaine,Terre amenagée,2.265112854021645,3,Kozah,Kara,False
+KOZAH,Voirie urbaine,Terre non amenagée,16.26099677946968,27,Kozah,Kara,False
+KPELE,Piste rurale,Terre non amenagée,9.150971645592277,5,Kpélé,Plateaux,False
+KPELE,Route nationale revêtue,Bitume,35.39863711376273,3,Kpélé,Plateaux,True
+KPELE,Voirie urbaine,Terre amenagée,0.2517052145256075,1,Kpélé,Plateaux,False
+KPELE,Voirie urbaine,Terre non amenagée,0.1675394006306927,1,Kpélé,Plateaux,False
+KPENDJAL,Route nationale non revêtue,Terre amenagée,7.730653913350633,1,Kpendjal,Savanes,False
+KPENDJAL,Route nationale revêtue,Bitume,22.740220092448734,2,Kpendjal,Savanes,True
+KPENDJAL,Route nationale revêtue,Terre amenagée,24.82597859563395,2,Kpendjal,Savanes,False
+KPENDJAL OUEST,Route nationale non revêtue,Terre amenagée,3.520871907725782,2,Kpendjal-Ouest,Savanes,False
+KPENDJAL OUEST,Route nationale revêtue,Bitume,35.20419447124476,6,Kpendjal-Ouest,Savanes,True
+LACS,Route nationale non revêtue,Terre amenagée,6.913217501286934,1,Lacs,Maritime,False
+LACS,Route nationale non revêtue,Terre non amenagée,0.8366051222618648,1,Lacs,Maritime,False
+LACS,Route nationale revêtue,Bitume,61.004179777877134,14,Lacs,Maritime,True
+LACS,Route nationale revêtue,Terre amenagée,4.8176012699984625,1,Lacs,Maritime,False
+LACS,Voirie urbaine,Bitume,3.4447108114347538,4,Lacs,Maritime,True
+LACS,Voirie urbaine,Terre non amenagée,3.7470082808877576,8,Lacs,Maritime,False
+MOYEN MONO,Route nationale non revêtue,Terre amenagée,45.883740643592596,7,Moyen-Mono,Plateaux,False
+MOYEN MONO,Route nationale revêtue,Bitume,12.262691353731357,1,Moyen-Mono,Plateaux,True
+OGOU,Route nationale non revêtue,Bitume,11.031318059713838,1,Ogou,Plateaux,True
+OGOU,Route nationale non revêtue,Terre amenagée,35.37114649811454,14,Ogou,Plateaux,False
+OGOU,Route nationale non revêtue,Terre non amenagée,5.692285026699074,6,Ogou,Plateaux,False
+OGOU,Route nationale revêtue,Bitume,63.2140542802154,11,Ogou,Plateaux,True
+OGOU,Voirie urbaine,Beton,4.2525400085772125,11,Ogou,Plateaux,True
+OGOU,Voirie urbaine,Bitume,9.211356574931191,9,Ogou,Plateaux,True
+OGOU,Voirie urbaine,Gravier amenagé,0.2858343510881209,1,Ogou,Plateaux,False
+OGOU,Voirie urbaine,Gravier non amenagé,4.989254572021053,4,Ogou,Plateaux,False
+OGOU,Voirie urbaine,Pavé,1.1410188380200916,5,Ogou,Plateaux,True
+OGOU,Voirie urbaine,Terre non amenagée,4.023326375966859,6,Ogou,Plateaux,False
+OTI,Route nationale non revêtue,Terre amenagée,19.046239737793222,2,Oti,Savanes,False
+OTI,Route nationale non revêtue,Terre non amenagée,72.27980111402452,7,Oti,Savanes,False
+OTI,Route nationale revêtue,Bitume,48.30854470590015,6,Oti,Savanes,True
+OTI SUD,Route nationale non revêtue,Terre amenagée,70.9057601460938,5,Oti-Sud,Savanes,False
+OTI SUD,Route nationale revêtue,Terre amenagée,19.832203730562885,2,Oti-Sud,Savanes,False
+OTI SUD,Route nationale revêtue,Terre non amenagée,35.4225188824015,1,Oti-Sud,Savanes,False
+SOTOUBOUA,Route nationale non revêtue,Bitume,0.2851243999656468,1,Sotouboua,Centrale,True
+SOTOUBOUA,Route nationale non revêtue,Terre amenagée,0.8485651707382541,1,Sotouboua,Centrale,False
+SOTOUBOUA,Route nationale revêtue,Bitume,43.078770515686735,3,Sotouboua,Centrale,True
+SOTOUBOUA,Route nationale revêtue,Terre amenagée,33.805438234999855,7,Sotouboua,Centrale,False
+SOTOUBOUA,Route nationale revêtue,Terre non amenagée,2.1711623622092335,1,Sotouboua,Centrale,False
+SOTOUBOUA,Voirie urbaine,Bitume,0.4118545826526686,1,Sotouboua,Centrale,True
+TANDJOARE,Route nationale revêtue,Bitume,26.236181633618575,4,Tandjoaré,Savanes,True
+TCHAMBA,Route nationale non revêtue,Terre amenagée,9.803128626522417,1,Tchamba,Centrale,False
+TCHAMBA,Route nationale revêtue,Bitume,41.485788375426836,2,Tchamba,Centrale,True
+TCHAMBA,Route nationale revêtue,Terre amenagée,64.43835004801919,5,Tchamba,Centrale,False
+TCHAMBA,Voirie urbaine,Bitume,0.6677223090868888,1,Tchamba,Centrale,True
+TCHAMBA,Voirie urbaine,Terre amenagée,3.016375941247389,6,Tchamba,Centrale,False
+TCHAOUDJO,Route nationale revêtue,Bitume,115.42700657374687,20,Tchaoudjo,Centrale,True
+TCHAOUDJO,Route nationale revêtue,Terre amenagée,0.5779066165702833,1,Tchaoudjo,Centrale,False
+TCHAOUDJO,Route nationale revêtue,Terre non amenagée,0.18840096028114978,1,Tchaoudjo,Centrale,False
+TCHAOUDJO,Voirie urbaine,Bitume,6.391570031206719,6,Tchaoudjo,Centrale,True
+TONE,Route nationale non revêtue,Terre amenagée,5.5995689558560136,4,Tône,Savanes,False
+TONE,Route nationale non revêtue,Terre non amenagée,10.286080427313621,4,Tône,Savanes,False
+TONE,Route nationale revêtue,Bitume,74.3365828264548,14,Tône,Savanes,True
+TONE,Voirie urbaine,Bitume,15.175215000823536,8,Tône,Savanes,True
+TOTOAL AVE,Route nationale non revêtue,Terre amenagée,41.54967799010484,8,Avé,Maritime,False
+TOTOAL AVE,Route nationale non revêtue,Terre non amenagée,7.130762982134885,1,Avé,Maritime,False
+TOTOAL AVE,Route nationale revêtue,Bitume,48.94227869069538,6,Avé,Maritime,True
+TOTOAL AVE,Route nationale revêtue,Terre amenagée,6.696659225711697,2,Avé,Maritime,False
+TOTOAL AVE,Voirie urbaine,Bitume,16.194775723610757,3,Avé,Maritime,True
+VO,Route nationale non revêtue,Terre non amenagée,11.070777205305681,1,Vo,Maritime,False
+VO,Route nationale revêtue,Bitume,54.990632436836506,6,Vo,Maritime,True
+WAWA,Route nationale non revêtue,Bitume,2.1072312736803287,1,Wawa,Plateaux,True
+WAWA,Route nationale non revêtue,Terre non amenagée,10.183797956087421,3,Wawa,Plateaux,False
+WAWA,Route nationale revêtue,Bitume,104.66863916367416,21,Wawa,Plateaux,True
+WAWA,Route nationale revêtue,Gravier amenagé,0.7503293324099496,1,Wawa,Plateaux,False
+WAWA,Route nationale revêtue,Terre amenagée,0.4716837734824141,1,Wawa,Plateaux,False
+WAWA,Route nationale revêtue,Terre non amenagée,3.031738087882008,1,Wawa,Plateaux,False
+WAWA,Voirie urbaine,Terre amenagée,2.4981831664031677,5,Wawa,Plateaux,False
+WAWA,Voirie urbaine,Terre non amenagée,3.6491510604309716,7,Wawa,Plateaux,False
+YOTO,Route nationale non revêtue,Terre amenagée,11.205360553099029,4,Yoto,Maritime,False
+YOTO,Route nationale non revêtue,Terre non amenagée,14.814456254729112,4,Yoto,Maritime,False
+YOTO,Route nationale revêtue,Bitume,29.016015985004884,3,Yoto,Maritime,True
+YOTO,Route nationale revêtue,Terre non amenagée,1.7981108675724762,1,Yoto,Maritime,False
+YOTO,Voirie urbaine,Terre non amenagée,0.31326768346182926,1,Yoto,Maritime,False
+ZIO,Route nationale non revêtue,Terre amenagée,1.0381974416868391,1,Zio,Maritime,False
+ZIO,Route nationale non revêtue,Terre non amenagée,13.916685211585934,1,Zio,Maritime,False
+ZIO,Route nationale revêtue,Bitume,82.81938685229287,14,Zio,Maritime,True
+ZIO,Voirie urbaine,Terre amenagée,4.111466016898582,3,Zio,Maritime,False
+ZIO,Voirie urbaine,Terre non amenagée,4.79735642300784,8,Zio,Maritime,False

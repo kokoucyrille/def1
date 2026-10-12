@@ -1,0 +1,9 @@
+{
+ "ae_total": 270,
+ "ae_dans_polygone_decl_strict": 233,
+ "ae_dans_polygone_decl_tolerance_1km": 243,
+ "routes_km_total": 3366.5,
+ "routes_part_km_dans_polygone_decl": 0.848,
+ "troncons_majoritairement_hors_polygone": 132,
+ "alias_naki_ouest_kpendjal_ouest_part_km": 0.976
+}

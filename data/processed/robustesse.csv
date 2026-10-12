@@ -1,0 +1,7 @@
+auto_ecoles,poids_infra,label,n_quintile,unites,n_quintile_hors_zero
+Toutes,0.2,20/80,15,"Akébou, Avé, Binah, Dankpen, Danyi, Doufelgou, Est-Mono, Haho, Kpendjal, Kpendjal-Ouest, Kéran, Moyen-Mono, Mô, Oti-Sud, Tandjoaré",0
+Toutes,0.5,50/50,6,"Akébou, Binah, Est-Mono, Moyen-Mono, Mô, Oti-Sud",0
+Toutes,0.8,80/20,2,"Akébou, Mô",0
+Agréées,0.2,20/80,23,"Agou, Akébou, Amou, Avé, Bas-Mono, Bassar, Binah, Blitta, Dankpen, Danyi, Doufelgou, Est-Mono, Haho, Kpendjal, Kpendjal-Ouest, Kéran, Moyen-Mono, Mô, Oti, Oti-Sud, Tandjoaré, Tchamba, Yoto",8
+Agréées,0.5,50/50,9,"Akébou, Bas-Mono, Binah, Est-Mono, Moyen-Mono, Mô, Oti-Sud, Tchamba, Yoto",3
+Agréées,0.8,80/20,3,"Akébou, Bas-Mono, Mô",1

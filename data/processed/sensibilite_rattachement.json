@@ -1,0 +1,38 @@
+{
+ "stables_attributs": [
+  "Akébou",
+  "Mô"
+ ],
+ "stables_geographique": [
+  "Akébou",
+  "Mô"
+ ],
+ "quintile_50_50_attributs": [
+  "Akébou",
+  "Binah",
+  "Est-Mono",
+  "Moyen-Mono",
+  "Mô",
+  "Oti-Sud"
+ ],
+ "quintile_50_50_geographique": [
+  "Akébou",
+  "Est-Mono",
+  "Kpendjal",
+  "Kéran",
+  "Mô",
+  "Oti-Sud"
+ ],
+ "quintile_hors_zeros_attributs": [
+  "Anié",
+  "Bas-Mono",
+  "Yoto"
+ ],
+ "quintile_hors_zeros_geographique": [],
+ "stables_hors_zeros_attributs": [
+  "Anié"
+ ],
+ "stables_hors_zeros_geographique": [],
+ "tronçons_rattaches_differemment": 146,
+ "auto_ecoles_rattachees_differemment": 35
+}

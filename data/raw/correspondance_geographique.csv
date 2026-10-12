@@ -1,0 +1,215 @@
+source,niveau,nom_source,cle_source,nom_rgph,cle_rgph,region_rgph,methode,nb_lignes,statut
+routes,region,Centrale,CENTRALE,,CENTRALE,,exact après normalisation,81,apparié
+routes,region,Kara,KARA,,KARA,,exact après normalisation,169,apparié
+routes,region,Maritime,MARITIME,,MARITIME,,nom brut identique mais périmètre différent (Maritime inclut le Grand Lomé),153,apparié avec réserve
+routes,region,Plateaux,PLATEAUX,,PLATEAUX,,exact après normalisation,321,apparié
+routes,region,Savanes,SAVANES,,SAVANES,,exact après normalisation,75,apparié
+routes,prefecture,Agou,AGOU,AGOU,AGOU,PLATEAUX,exact après normalisation,35,apparié
+routes,prefecture,Agoè-Nyivé,AGOE NYIVE,AGOE-NYIVE,AGOE NYIVE,DAGL,exact après normalisation,12,apparié
+routes,prefecture,Akébou,AKEBOU,AKEBOU,AKEBOU,PLATEAUX,exact après normalisation,3,apparié
+routes,prefecture,Amou,AMOU,AMOU,AMOU,PLATEAUX,exact après normalisation,16,apparié
+routes,prefecture,Anié,ANIE,ANIE,ANIE,PLATEAUX,exact après normalisation,4,apparié
+routes,prefecture,Assoli,ASSOLI,ASSOLI,ASSOLI,KARA,exact après normalisation,18,apparié
+routes,prefecture,Avé,AVE,TOTOAL AVE,TOTOAL AVE,MARITIME,alias documenté : les communes « AVE 1 » et « AVE 2 » du RGPH sont rattachées à la préfecture « TOTOAL AVE »,20,apparié avec réserve
+routes,prefecture,Bas-Mono,BAS MONO,BAS-MONO,BAS MONO,MARITIME,exact après normalisation,8,apparié
+routes,prefecture,Bassar,BASSAR,BASSAR,BASSAR,KARA,exact après normalisation,28,apparié
+routes,prefecture,Binah,BINAH,BINAH,BINAH,KARA,exact après normalisation,6,apparié
+routes,prefecture,Blitta,BLITTA,BLITTA,BLITTA,CENTRALE,exact après normalisation,24,apparié
+routes,prefecture,Cinkassé,CINKASSE,CINKASSE,CINKASSE,SAVANES,exact après normalisation,5,apparié
+routes,prefecture,Dankpen,DANKPEN,DANKPEN,DANKPEN,KARA,exact après normalisation,6,apparié
+routes,prefecture,Danyi,DANYI,DANYI,DANYI,PLATEAUX,exact après normalisation,26,apparié
+routes,prefecture,Doufelgou,DOUFELGOU,DOUFELGOU,DOUFELGOU,KARA,exact après normalisation,25,apparié
+routes,prefecture,Est-Mono,EST MONO,EST-MONO,EST MONO,PLATEAUX,exact après normalisation,61,apparié
+routes,prefecture,Golfe,GOLFE,GOLFE,GOLFE,DAGL,exact après normalisation,37,apparié
+routes,prefecture,Haho,HAHO,HAHO,HAHO,PLATEAUX,exact après normalisation,19,apparié
+routes,prefecture,Kloto,KLOTO,KLOTO,KLOTO,PLATEAUX,exact après normalisation,31,apparié
+routes,prefecture,Kozah,KOZAH,KOZAH,KOZAH,KARA,exact après normalisation,75,apparié
+routes,prefecture,Kpendjal,KPENDJAL,KPENDJAL,KPENDJAL,SAVANES,exact après normalisation,5,apparié
+routes,prefecture,Kpendjal-Ouest,KPENDJAL OUEST,KPENDJAL-OUEST,KPENDJAL OUEST,SAVANES,exact après normalisation,8,apparié
+routes,prefecture,Kpélé,KPELE,KPELE,KPELE,PLATEAUX,exact après normalisation,10,apparié
+routes,prefecture,Kéran,KERAN,KERAN,KERAN,KARA,exact après normalisation,11,apparié
+routes,prefecture,Lacs,LACS,LACS,LACS,MARITIME,exact après normalisation,29,apparié
+routes,prefecture,Moyen-Mono,MOYEN MONO,MOYEN-MONO,MOYEN MONO,PLATEAUX,exact après normalisation,8,apparié
+routes,prefecture,Ogou,OGOU,OGOU,OGOU,PLATEAUX,exact après normalisation,68,apparié
+routes,prefecture,Oti,OTI,OTI,OTI,SAVANES,exact après normalisation,15,apparié
+routes,prefecture,Oti-Sud,OTI SUD,OTI-SUD,OTI SUD,SAVANES,exact après normalisation,8,apparié
+routes,prefecture,Sotouboua,SOTOUBOUA,SOTOUBOUA,SOTOUBOUA,CENTRALE,exact après normalisation,14,apparié
+routes,prefecture,Tandjoaré,TANDJOARE,TANDJOARE,TANDJOARE,SAVANES,exact après normalisation,4,apparié
+routes,prefecture,Tchamba,TCHAMBA,TCHAMBA,TCHAMBA,CENTRALE,exact après normalisation,15,apparié
+routes,prefecture,Tchaoudjo,TCHAOUDJO,TCHAOUDJO,TCHAOUDJO,CENTRALE,exact après normalisation,28,apparié
+routes,prefecture,Tône,TONE,TONE,TONE,SAVANES,exact après normalisation,30,apparié
+routes,prefecture,Vo,VO,VO,VO,MARITIME,exact après normalisation,7,apparié
+routes,prefecture,Wawa,WAWA,WAWA,WAWA,PLATEAUX,exact après normalisation,40,apparié
+routes,prefecture,Yoto,YOTO,YOTO,YOTO,MARITIME,exact après normalisation,13,apparié
+routes,prefecture,Zio,ZIO,ZIO,ZIO,MARITIME,exact après normalisation,27,apparié
+routes,commune,Agoè-Nyivé 1,AGOE NYIVE 1,AGOE NYIVE 1,AGOE NYIVE 1,DAGL,exact après normalisation,3,apparié
+routes,commune,Agoè-Nyivé 2,AGOE NYIVE 2,AGOE NYIVE 2,AGOE NYIVE 2,DAGL,exact après normalisation,2,apparié
+routes,commune,Agoè-Nyivé 4,AGOE NYIVE 4,AGOE NYIVE 4,AGOE NYIVE 4,DAGL,exact après normalisation,2,apparié
+routes,commune,Agoè-Nyivé 5,AGOE NYIVE 5,AGOE NYIVE 5,AGOE NYIVE 5,DAGL,exact après normalisation,3,apparié
+routes,commune,Agoè-Nyivé 6,AGOE NYIVE 6,AGOE NYIVE 6,AGOE NYIVE 6,DAGL,exact après normalisation,2,apparié
+routes,commune,Agou 1,AGOU 1,AGOU 1,AGOU 1,PLATEAUX,exact après normalisation,26,apparié
+routes,commune,Agou 2,AGOU 2,AGOU 2,AGOU 2,PLATEAUX,exact après normalisation,9,apparié
+routes,commune,Akébou 1,AKEBOU 1,AKEBOU 1,AKEBOU 1,PLATEAUX,exact après normalisation,3,apparié
+routes,commune,Amou 1,AMOU 1,AMOU 1,AMOU 1,PLATEAUX,exact après normalisation,5,apparié
+routes,commune,Amou 2,AMOU 2,AMOU 2,AMOU 2,PLATEAUX,exact après normalisation,1,apparié
+routes,commune,Amou 3,AMOU 3,AMOU 2,AMOU 2,PLATEAUX,alias inféré : le RGPH répète « AMOU 2 » : la seconde occurrence est la 3e commune par son rang,10,apparié avec réserve
+routes,commune,Anié 1,ANIE 1,ANIE 1,ANIE 1,PLATEAUX,exact après normalisation,4,apparié
+routes,commune,Assoli 1,ASSOLI 1,ASSOLI 1,ASSOLI 1,KARA,exact après normalisation,13,apparié
+routes,commune,Assoli 2,ASSOLI 2,ASSOLI 2,ASSOLI 2,KARA,exact après normalisation,5,apparié
+routes,commune,Bas-Mono 1,BAS MONO 1,BAS MONO 1,BAS MONO 1,MARITIME,exact après normalisation,5,apparié
+routes,commune,Bas-Mono 2,BAS MONO 2,BAS MONO 2,BAS MONO 2,MARITIME,exact après normalisation,3,apparié
+routes,commune,Bassar 1,BASSAR 1,BASSAR 1,BASSAR 1,KARA,exact après normalisation,21,apparié
+routes,commune,Bassar 2,BASSAR 2,BASSAR 2,BASSAR 2,KARA,exact après normalisation,2,apparié
+routes,commune,Bassar 3,BASSAR 3,BASSAR 3,BASSAR 3,KARA,exact après normalisation,3,apparié
+routes,commune,Bassar 4,BASSAR 4,BASSAR 4,BASSAR 4,KARA,exact après normalisation,2,apparié
+routes,commune,Binah 1,BINAH 1,BINAH 1,BINAH 1,KARA,exact après normalisation,4,apparié
+routes,commune,Binah 2,BINAH 2,BINAH 2,BINAH 2,KARA,exact après normalisation,2,apparié
+routes,commune,Blitta 1,BLITTA 1,BLITTA 1,BLITTA 1,CENTRALE,exact après normalisation,9,apparié
+routes,commune,Blitta 2,BLITTA 2,BLITTA 2,BLITTA 2,CENTRALE,exact après normalisation,7,apparié
+routes,commune,Blitta 3,BLITTA 3,BLITTA 3,BLITTA 3,CENTRALE,exact après normalisation,8,apparié
+routes,commune,Cinkassé 1,CINKASSE 1,CINKASSE 1,CINKASSE 1,SAVANES,exact après normalisation,3,apparié
+routes,commune,Cinkassé 2,CINKASSE 2,CINKASSE 2,CINKASSE 2,SAVANES,exact après normalisation,2,apparié
+routes,commune,Dankpen 1,DANKPEN 1,DANKPEN 1,DANKPEN 1,KARA,exact après normalisation,6,apparié
+routes,commune,Danyi 1,DANYI 1,DANYI 1+DANYI 2,DANYI 1+DANYI 2,PLATEAUX,alias inféré : le RGPH regroupe les deux communes en une ligne,17,apparié avec réserve
+routes,commune,Danyi 2,DANYI 2,DANYI 1+DANYI 2,DANYI 1+DANYI 2,PLATEAUX,alias inféré : le RGPH regroupe les deux communes en une ligne,9,apparié avec réserve
+routes,commune,Doufelgou 1,DOUFELGOU 1,DOUFELGOU 1,DOUFELGOU 1,KARA,exact après normalisation,18,apparié
+routes,commune,Doufelgou 2,DOUFELGOU 2,DOUFELGOU 2,DOUFELGOU 2,KARA,exact après normalisation,3,apparié
+routes,commune,Doufelgou 3,DOUFELGOU 3,DOUFELGOU 3,DOUFELGOU 3,KARA,exact après normalisation,4,apparié
+routes,commune,Est-Mono 1,EST MONO 1,EST MONO 1,EST MONO 1,PLATEAUX,exact après normalisation,20,apparié
+routes,commune,Est-Mono 2,EST MONO 2,EST MONO 2,EST MONO 2,PLATEAUX,exact après normalisation,8,apparié
+routes,commune,Est-Mono 3,EST MONO 3,EST MONO 1,EST MONO 1,PLATEAUX,alias inféré : le RGPH répète « EST-MONO 1 » : la seconde occurrence est la 3e commune par son rang,33,apparié avec réserve
+routes,commune,Golfe 1,GOLFE 1,GOLFE 1,GOLFE 1,DAGL,exact après normalisation,9,apparié
+routes,commune,Golfe 2,GOLFE 2,GOLFE 2,GOLFE 2,DAGL,exact après normalisation,7,apparié
+routes,commune,Golfe 3,GOLFE 3,GOLFE 3,GOLFE 3,DAGL,exact après normalisation,2,apparié
+routes,commune,Golfe 4,GOLFE 4,GOLFE 4,GOLFE 4,DAGL,exact après normalisation,8,apparié
+routes,commune,Golfe 5,GOLFE 5,GOLFE 5,GOLFE 5,DAGL,exact après normalisation,2,apparié
+routes,commune,Golfe 6,GOLFE 6,GOLFE 6,GOLFE 6,DAGL,exact après normalisation,6,apparié
+routes,commune,Golfe 7,GOLFE 7,GOLFE 7,GOLFE 7,DAGL,exact après normalisation,3,apparié
+routes,commune,Haho 1,HAHO 1,HAHO 1,HAHO 1,PLATEAUX,exact après normalisation,14,apparié
+routes,commune,Haho 2,HAHO 2,HAHO 2,HAHO 2,PLATEAUX,exact après normalisation,3,apparié
+routes,commune,Haho 3,HAHO 3,HAHO 3,HAHO 3,PLATEAUX,exact après normalisation,1,apparié
+routes,commune,Haho 4,HAHO 4,HAHO 4,HAHO 4,PLATEAUX,exact après normalisation,1,apparié
+routes,commune,Kéran 1,KERAN 1,KERAN 1,KERAN 1,KARA,exact après normalisation,9,apparié
+routes,commune,Kéran 3,KERAN 3,KERAN 3,KERAN 3,KARA,exact après normalisation,2,apparié
+routes,commune,Kloto 1,KLOTO 1,KLOTO 1,KLOTO 1,PLATEAUX,exact après normalisation,20,apparié
+routes,commune,Kloto 2,KLOTO 2,KLOTO 2,KLOTO 2,PLATEAUX,exact après normalisation,2,apparié
+routes,commune,Kloto 3,KLOTO 3,KLOTO 3,KLOTO 3,PLATEAUX,exact après normalisation,9,apparié
+routes,commune,Kozah 1,KOZAH 1,KOZAH 1,KOZAH 1,KARA,exact après normalisation,47,apparié
+routes,commune,Kozah 2,KOZAH 2,KOZAH 2,KOZAH 2,KARA,exact après normalisation,20,apparié
+routes,commune,Kozah 3,KOZAH 3,KOZAH 3,KOZAH 3,KARA,exact après normalisation,3,apparié
+routes,commune,Kozah 4,KOZAH 4,KOZAH 4,KOZAH 4,KARA,exact après normalisation,5,apparié
+routes,commune,Kpélé 1,KPELE 1,KPELE 1,KPELE 1,PLATEAUX,exact après normalisation,9,apparié
+routes,commune,Kpélé 2,KPELE 2,KPELE 2,KPELE 2,PLATEAUX,exact après normalisation,1,apparié
+routes,commune,Kpendjal 1,KPENDJAL 1,KPENDJAL 1,KPENDJAL 1,SAVANES,exact après normalisation,3,apparié
+routes,commune,Kpendjal 2,KPENDJAL 2,KPENDJAL 2,KPENDJAL 2,SAVANES,exact après normalisation,2,apparié
+routes,commune,Kpendjal-Ouest 1,KPENDJAL OUEST 1,KPENDJAL OUEST 1,KPENDJAL OUEST 1,SAVANES,exact après normalisation,5,apparié
+routes,commune,Kpendjal-Ouest 2,KPENDJAL OUEST 2,KPENDJAL OUEST 2,KPENDJAL OUEST 2,SAVANES,exact après normalisation,3,apparié
+routes,commune,Lacs 1,LACS 1,LACS 1,LACS 1,MARITIME,exact après normalisation,19,apparié
+routes,commune,Lacs 2,LACS 2,LACS 2,LACS 2,MARITIME,exact après normalisation,2,apparié
+routes,commune,Lacs 3,LACS 3,LACS 3,LACS 3,MARITIME,exact après normalisation,1,apparié
+routes,commune,Lacs 4,LACS 4,LACS 4,LACS 4,MARITIME,exact après normalisation,7,apparié
+routes,commune,Moyen-Mono 1,MOYEN MONO 1,MOYEN MONO 1,MOYEN MONO 1,PLATEAUX,exact après normalisation,5,apparié
+routes,commune,Moyen-Mono 2,MOYEN MONO 2,MOYEN MONO 2,MOYEN MONO 2,PLATEAUX,exact après normalisation,3,apparié
+routes,commune,Ogou 1,OGOU 1,OGOU 1,OGOU 1,PLATEAUX,exact après normalisation,45,apparié
+routes,commune,Ogou 2,OGOU 2,OGOU 2,OGOU 2,PLATEAUX,exact après normalisation,12,apparié
+routes,commune,Ogou 3,OGOU 3,OGOU 3,OGOU 3,PLATEAUX,exact après normalisation,1,apparié
+routes,commune,Ogou 4,OGOU 4,OGOU 4,OGOU 4,PLATEAUX,exact après normalisation,10,apparié
+routes,commune,Oti 1,OTI 1,OTI 1,OTI 1,SAVANES,exact après normalisation,8,apparié
+routes,commune,Oti 2,OTI 2,OTI 2,OTI 2,SAVANES,exact après normalisation,7,apparié
+routes,commune,Oti-Sud 1,OTI SUD 1,OTI SUD 1,OTI SUD 1,SAVANES,exact après normalisation,5,apparié
+routes,commune,Oti-Sud 2,OTI SUD 2,OTI SUD 2,OTI SUD 2,SAVANES,exact après normalisation,3,apparié
+routes,commune,Sotouboua 1,SOTOUBOUA 1,SOTOUBOUA 1,SOTOUBOUA 1,CENTRALE,exact après normalisation,8,apparié
+routes,commune,Sotouboua 2,SOTOUBOUA 2,SOTOUBOUA 2,SOTOUBOUA 2,CENTRALE,exact après normalisation,2,apparié
+routes,commune,Sotouboua 3,SOTOUBOUA 3,SOTOUBOUA 3,SOTOUBOUA 3,CENTRALE,exact après normalisation,4,apparié
+routes,commune,Tandjoaré 1,TANDJOARE 1,TANDJOARE 1,TANDJOARE 1,SAVANES,exact après normalisation,4,apparié
+routes,commune,Tchamba 1,TCHAMBA 1,TCHAMBA 1,TCHAMBA 1,CENTRALE,exact après normalisation,8,apparié
+routes,commune,Tchamba 2,TCHAMBA 2,TCHAMBA 2,TCHAMBA 2,CENTRALE,exact après normalisation,3,apparié
+routes,commune,Tchamba 3,TCHAMBA 3,TCHAMBA 3,TCHAMBA 3,CENTRALE,exact après normalisation,4,apparié
+routes,commune,Tchaoudjo 1,TCHAOUDJO 1,TCHAOUDJO 1,TCHAOUDJO 1,CENTRALE,exact après normalisation,20,apparié
+routes,commune,Tchaoudjo 2,TCHAOUDJO 2,TCHAOUDJO 2,TCHAOUDJO 2,CENTRALE,exact après normalisation,1,apparié
+routes,commune,Tchaoudjo 3,TCHAOUDJO 3,TCHAOUDJO 3,TCHAOUDJO 3,CENTRALE,exact après normalisation,7,apparié
+routes,commune,Tône 1,TONE 1,TONE 1,TONE 1,SAVANES,exact après normalisation,15,apparié
+routes,commune,Tône 2,TONE 2,TONE 2,TONE 2,SAVANES,exact après normalisation,9,apparié
+routes,commune,Tône 4,TONE 4,TONE 4,TONE 4,SAVANES,exact après normalisation,6,apparié
+routes,commune,Avé 1,AVE 1,AVE 1,AVE 1,MARITIME,exact après normalisation,11,apparié
+routes,commune,Avé 2,AVE 2,AVE 2,AVE 2,MARITIME,exact après normalisation,9,apparié
+routes,commune,Vo 1,VO 1,VO 1,VO 1,MARITIME,exact après normalisation,3,apparié
+routes,commune,Vo 3,VO 3,VO 3,VO 3,MARITIME,exact après normalisation,2,apparié
+routes,commune,Vo 4,VO 4,VO 4,VO 4,MARITIME,exact après normalisation,2,apparié
+routes,commune,Wawa 1,WAWA 1,WAWA 1,WAWA 1,PLATEAUX,exact après normalisation,24,apparié
+routes,commune,Wawa 3,WAWA 3,WAWA 3,WAWA 3,PLATEAUX,exact après normalisation,16,apparié
+routes,commune,Yoto 1,YOTO 1,YOTO 1,YOTO 1,MARITIME,exact après normalisation,4,apparié
+routes,commune,Yoto 2,YOTO 2,YOTO 2,YOTO 2,MARITIME,exact après normalisation,3,apparié
+routes,commune,Yoto 3,YOTO 3,YOTO 3,YOTO 3,MARITIME,exact après normalisation,6,apparié
+routes,commune,Zio 1,ZIO 1,ZIO 1,ZIO 1,MARITIME,exact après normalisation,21,apparié
+routes,commune,Zio 2,ZIO 2,ZIO 2,ZIO 2,MARITIME,exact après normalisation,2,apparié
+routes,commune,Zio 3,ZIO 3,ZIO 3,ZIO 3,MARITIME,exact après normalisation,4,apparié
+auto_ecoles,region,Centrale,CENTRALE,,CENTRALE,,exact après normalisation,12,apparié
+auto_ecoles,region,Kara,KARA,,KARA,,exact après normalisation,14,apparié
+auto_ecoles,region,Maritime,MARITIME,,MARITIME,,nom brut identique mais périmètre différent (Maritime inclut le Grand Lomé),224,apparié avec réserve
+auto_ecoles,region,Plateaux,PLATEAUX,,PLATEAUX,,exact après normalisation,12,apparié
+auto_ecoles,region,Savanes,SAVANES,,SAVANES,,exact après normalisation,10,apparié
+auto_ecoles,prefecture,Agou,AGOU,AGOU,AGOU,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Agoè-Nyivé,AGOE NYIVE,AGOE-NYIVE,AGOE NYIVE,DAGL,exact après normalisation,71,apparié
+auto_ecoles,prefecture,Amou,AMOU,AMOU,AMOU,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Anié,ANIE,ANIE,ANIE,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Assoli,ASSOLI,ASSOLI,ASSOLI,KARA,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Bas-Mono,BAS MONO,BAS-MONO,BAS MONO,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Bassar,BASSAR,BASSAR,BASSAR,KARA,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Blitta,BLITTA,BLITTA,BLITTA,CENTRALE,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Cinkassé,CINKASSE,CINKASSE,CINKASSE,SAVANES,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Golfe,GOLFE,GOLFE,GOLFE,DAGL,exact après normalisation,142,apparié
+auto_ecoles,prefecture,Kloto,KLOTO,KLOTO,KLOTO,PLATEAUX,exact après normalisation,3,apparié
+auto_ecoles,prefecture,Kozah,KOZAH,KOZAH,KOZAH,KARA,exact après normalisation,11,apparié
+auto_ecoles,prefecture,Kpélé,KPELE,KPELE,KPELE,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Lacs,LACS,LACS,LACS,MARITIME,exact après normalisation,5,apparié
+auto_ecoles,prefecture,Ogou,OGOU,OGOU,OGOU,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Oti,OTI,OTI,OTI,SAVANES,exact après normalisation,3,apparié
+auto_ecoles,prefecture,Sotouboua,SOTOUBOUA,SOTOUBOUA,SOTOUBOUA,CENTRALE,exact après normalisation,4,apparié
+auto_ecoles,prefecture,Tchamba,TCHAMBA,TCHAMBA,TCHAMBA,CENTRALE,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Tchaoudjo,TCHAOUDJO,TCHAOUDJO,TCHAOUDJO,CENTRALE,exact après normalisation,4,apparié
+auto_ecoles,prefecture,Tône,TONE,TONE,TONE,SAVANES,exact après normalisation,5,apparié
+auto_ecoles,prefecture,Vo,VO,VO,VO,MARITIME,exact après normalisation,3,apparié
+auto_ecoles,prefecture,Wawa,WAWA,WAWA,WAWA,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,prefecture,Yoto,YOTO,YOTO,YOTO,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,prefecture,Zio,ZIO,ZIO,ZIO,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Agoè-Nyivé 1,AGOE NYIVE 1,AGOE NYIVE 1,AGOE NYIVE 1,DAGL,exact après normalisation,44,apparié
+auto_ecoles,commune,Agoè-Nyivé 2,AGOE NYIVE 2,AGOE NYIVE 2,AGOE NYIVE 2,DAGL,exact après normalisation,4,apparié
+auto_ecoles,commune,Agoè-Nyivé 3,AGOE NYIVE 3,AGOE NYIVE 3,AGOE NYIVE 3,DAGL,exact après normalisation,7,apparié
+auto_ecoles,commune,Agoè-Nyivé 4,AGOE NYIVE 4,AGOE NYIVE 4,AGOE NYIVE 4,DAGL,exact après normalisation,4,apparié
+auto_ecoles,commune,Agoè-Nyivé 5,AGOE NYIVE 5,AGOE NYIVE 5,AGOE NYIVE 5,DAGL,exact après normalisation,8,apparié
+auto_ecoles,commune,Agoè-Nyivé 6,AGOE NYIVE 6,AGOE NYIVE 6,AGOE NYIVE 6,DAGL,exact après normalisation,4,apparié
+auto_ecoles,commune,Agou 1,AGOU 1,AGOU 1,AGOU 1,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,commune,Amou 2,AMOU 2,AMOU 2,AMOU 2,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,commune,Anié 1,ANIE 1,ANIE 1,ANIE 1,PLATEAUX,exact après normalisation,1,apparié
+auto_ecoles,commune,Assoli 1,ASSOLI 1,ASSOLI 1,ASSOLI 1,KARA,exact après normalisation,1,apparié
+auto_ecoles,commune,Bas-Mono 1,BAS MONO 1,BAS MONO 1,BAS MONO 1,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Bassar 1,BASSAR 1,BASSAR 1,BASSAR 1,KARA,exact après normalisation,2,apparié
+auto_ecoles,commune,Blitta 1,BLITTA 1,BLITTA 1,BLITTA 1,CENTRALE,exact après normalisation,2,apparié
+auto_ecoles,commune,Cinkassé 1,CINKASSE 1,CINKASSE 1,CINKASSE 1,SAVANES,exact après normalisation,2,apparié
+auto_ecoles,commune,Golfe 1,GOLFE 1,GOLFE 1,GOLFE 1,DAGL,exact après normalisation,29,apparié
+auto_ecoles,commune,Golfe 2,GOLFE 2,GOLFE 2,GOLFE 2,DAGL,exact après normalisation,12,apparié
+auto_ecoles,commune,Golfe 3,GOLFE 3,GOLFE 3,GOLFE 3,DAGL,exact après normalisation,25,apparié
+auto_ecoles,commune,Golfe 4,GOLFE 4,GOLFE 4,GOLFE 4,DAGL,exact après normalisation,11,apparié
+auto_ecoles,commune,Golfe 5,GOLFE 5,GOLFE 5,GOLFE 5,DAGL,exact après normalisation,40,apparié
+auto_ecoles,commune,Golfe 6,GOLFE 6,GOLFE 6,GOLFE 6,DAGL,exact après normalisation,8,apparié
+auto_ecoles,commune,Golfe 7,GOLFE 7,GOLFE 7,GOLFE 7,DAGL,exact après normalisation,17,apparié
+auto_ecoles,commune,Kloto 1,KLOTO 1,KLOTO 1,KLOTO 1,PLATEAUX,exact après normalisation,3,apparié
+auto_ecoles,commune,Kozah 1,KOZAH 1,KOZAH 1,KOZAH 1,KARA,exact après normalisation,11,apparié
+auto_ecoles,commune,Kpélé 1,KPELE 1,KPELE 1,KPELE 1,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,commune,Lacs 1,LACS 1,LACS 1,LACS 1,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Lacs 2,LACS 2,LACS 2,LACS 2,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Lacs 3,LACS 3,LACS 3,LACS 3,MARITIME,exact après normalisation,2,apparié
+auto_ecoles,commune,Lacs 4,LACS 4,LACS 4,LACS 4,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Ogou 1,OGOU 1,OGOU 1,OGOU 1,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,commune,Oti 1,OTI 1,OTI 1,OTI 1,SAVANES,exact après normalisation,2,apparié
+auto_ecoles,commune,Oti 2,OTI 2,OTI 2,OTI 2,SAVANES,exact après normalisation,1,apparié
+auto_ecoles,commune,Sotouboua 1,SOTOUBOUA 1,SOTOUBOUA 1,SOTOUBOUA 1,CENTRALE,exact après normalisation,4,apparié
+auto_ecoles,commune,Tchamba 1,TCHAMBA 1,TCHAMBA 1,TCHAMBA 1,CENTRALE,exact après normalisation,1,apparié
+auto_ecoles,commune,Tchamba 3,TCHAMBA 3,TCHAMBA 3,TCHAMBA 3,CENTRALE,exact après normalisation,1,apparié
+auto_ecoles,commune,Tchaoudjo 1,TCHAOUDJO 1,TCHAOUDJO 1,TCHAOUDJO 1,CENTRALE,exact après normalisation,4,apparié
+auto_ecoles,commune,Tône 1,TONE 1,TONE 1,TONE 1,SAVANES,exact après normalisation,5,apparié
+auto_ecoles,commune,Vo 1,VO 1,VO 1,VO 1,MARITIME,exact après normalisation,3,apparié
+auto_ecoles,commune,Wawa 1,WAWA 1,WAWA 1,WAWA 1,PLATEAUX,exact après normalisation,2,apparié
+auto_ecoles,commune,Yoto 1,YOTO 1,YOTO 1,YOTO 1,MARITIME,exact après normalisation,1,apparié
+auto_ecoles,commune,Zio 1,ZIO 1,ZIO 1,ZIO 1,MARITIME,exact après normalisation,1,apparié

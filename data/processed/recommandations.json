@@ -1,0 +1,744 @@
+{
+ "Toutes les régions": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés)",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "39 préfecture(s) : Tône, Cinkassé, Kpendjal-Ouest, Kpendjal, Oti-Sud, Oti (+33)",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "National : 270 auto-école(s) recensée(s), dont 132 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "15 préfecture(s) sans auto-école recensée.",
+      "ou": "Haho, Dankpen, Est-Mono, Oti-Sud, Tandjoaré, Kéran (+9)",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (15 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Kpendjal-Ouest, Oti-Sud, Kpendjal, Tandjoaré",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km).",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Mô (0,00), Agoè-Nyivé (0,71), Golfe (0,76), Akébou (1,46)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "National",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Grand Lomé": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Grand Lomé : 27,0 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "2 préfecture(s) : Golfe, Agoè-Nyivé",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Grand Lomé : 212 auto-école(s) recensée(s), dont 103 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "0 préfecture(s) sans auto-école recensée dans Grand Lomé sur 15 au niveau national.",
+      "ou": "Aucune préfecture sans auto-école dans cette région",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (0 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Agoè-Nyivé, Golfe",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Grand Lomé : état non renseigné (0 % de couverture).",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Agoè-Nyivé (0,71), Golfe (0,76)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Grand Lomé",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Maritime": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Maritime : 16,6 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "6 préfecture(s) : Zio, Yoto, Bas-Mono, Lacs, Vo, Avé",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Maritime : 10 auto-école(s) recensée(s), dont 5 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "1 préfecture(s) sans auto-école recensée dans Maritime sur 15 au niveau national.",
+      "ou": "Avé",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (1 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Avé, Yoto, Bas-Mono, Zio",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Maritime (Indicatif, couverture 31 %) : 8 % de mauvais état.",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Zio (2,13), Vo (2,94), Yoto (3,27), Lacs (3,35)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Maritime",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Plateaux": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Plateaux : 20,2 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "12 préfecture(s) : Ogou, Moyen-Mono, Haho, Agou, Kloto, Kpélé (+6)",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Plateaux : 12 auto-école(s) recensée(s), dont 9 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "5 préfecture(s) sans auto-école recensée dans Plateaux sur 15 au niveau national.",
+      "ou": "Haho, Est-Mono, Moyen-Mono, Akébou, Danyi",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (5 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Moyen-Mono, Haho, Akébou, Danyi",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Plateaux (Indicatif, couverture 70 %) : 20 % de mauvais état.",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Akébou (1,46), Anié (2,14), Haho (4,44), Ogou (5,49)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Plateaux",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Centrale": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Centrale : 9,8 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "5 préfecture(s) : Tchaoudjo, Tchamba, Blitta, Sotouboua, Mô",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Centrale : 12 auto-école(s) recensée(s), dont 4 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "1 préfecture(s) sans auto-école recensée dans Centrale sur 15 au niveau national.",
+      "ou": "Mô",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (1 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Mô, Tchamba, Blitta, Tchaoudjo",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Centrale (Indicatif, couverture 90 %) : 40 % de mauvais état.",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Mô (0,00), Tchaoudjo (5,10), Sotouboua (5,80), Tchamba (5,95)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Centrale",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Kara": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Kara : 12,2 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "7 préfecture(s) : Kozah, Assoli, Bassar, Dankpen, Kéran, Doufelgou (+1)",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Kara : 14 auto-école(s) recensée(s), dont 7 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "4 préfecture(s) sans auto-école recensée dans Kara sur 15 au niveau national.",
+      "ou": "Dankpen, Kéran, Doufelgou, Binah",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (4 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Doufelgou, Kéran, Dankpen, Binah",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Kara (Indicatif, couverture 91 %) : 18 % de mauvais état.",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Dankpen (2,31), Binah (5,58), Kozah (6,37), Kéran (6,40)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Kara",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ },
+ "Savanes": {
+  "themes": [
+   {
+    "id": "Sécurité & deux-roues",
+    "title": "Priorité 1 — Sécurité & deux-roues",
+    "icon": "fa-suitcase-medical",
+    "actions": [
+     {
+      "tag": "A1",
+      "label": "Programme national deux-roues",
+      "constat": "Deux-roues = 72,1 % des immatriculations 2022 (42,0 % en 2002), ≈ 80,6 % de la hausse ; 683 morts en 2022 (+45 % vs 2010).",
+      "ou": "National (accidents non territorialisés) ; Savanes : 14,1 % de la population, à cibler après production des données par préfecture",
+      "action": "Casque et équipement obligatoires contrôlés, contrôles routiers ciblés sur les deux-roues, campagnes de prévention.",
+      "indicateur": "Morts pour 100 000 hab. (8,4 en 2022)",
+      "horizon": "12 à 24 mois"
+     },
+     {
+      "tag": "A2",
+      "label": "Accidents par préfecture",
+      "constat": "7 507 accidents et 683 morts en 2022, publiés uniquement au niveau national : aucun ciblage territorial n'est possible.",
+      "ou": "7 préfecture(s) : Tône, Cinkassé, Kpendjal-Ouest, Kpendjal, Oti-Sud, Oti (+1)",
+      "action": "Géolocaliser chaque accident et publier chaque année accidents, blessés et morts par préfecture.",
+      "indicateur": "Part des accidents géolocalisés (objectif 100 %)",
+      "horizon": "12 mois"
+     },
+     {
+      "tag": "A3",
+      "label": "Fiabiliser la gravité",
+      "constat": "Accidents ×2,4 depuis 2010 mais morts pour 100 accidents de 15,2 à 9,1 : amélioration réelle ou meilleure déclaration, non démontrable.",
+      "ou": "National",
+      "action": "Harmoniser la déclaration (police, santé) et réviser la série 2010–2022.",
+      "indicateur": "Morts pour 100 accidents, série révisée",
+      "horizon": "12 à 18 mois"
+     }
+    ]
+   },
+   {
+    "id": "Formation des conducteurs",
+    "title": "Priorité 2 — Formation des conducteurs",
+    "icon": "fa-users",
+    "actions": [
+     {
+      "tag": "B1",
+      "label": "Combler l'écart permis A / deux-roues",
+      "constat": "Permis A = 5,1 % des permis délivrés 2007–2022 (hors 2013) contre 72,1 % des immatriculations de deux-roues en 2022.",
+      "ou": "Savanes : 10 auto-école(s) recensée(s), dont 4 agréée(s)",
+      "action": "Ouvrir des sessions d'examen et de formation au permis A, diffuser une offre accessible (coût, délais).",
+      "indicateur": "Part du permis A dans les permis délivrés (19,7 % en 2022)",
+      "horizon": "24 mois"
+     },
+     {
+      "tag": "B2",
+      "label": "Couvrir les préfectures sans auto-école",
+      "constat": "4 préfecture(s) sans auto-école recensée dans Savanes sur 15 au niveau national.",
+      "ou": "Oti-Sud, Tandjoaré, Kpendjal-Ouest, Kpendjal",
+      "action": "Créer des antennes agréées ou des auto-écoles mobiles et un centre d'examen par préfecture non couverte.",
+      "indicateur": "Préfectures sans auto-école (4 → 0)",
+      "horizon": "24 à 36 mois"
+     },
+     {
+      "tag": "B3",
+      "label": "Rééquilibrer l'offre de formation",
+      "constat": "Grand Lomé : 27 % de la population et 79 % des auto-écoles ; 29 983 hab. par auto-école au niveau national (Indicatif : sous-recensement possible hors Lomé).",
+      "ou": "Plus forts déficits de formation : Kpendjal-Ouest, Oti-Sud, Kpendjal, Tandjoaré",
+      "action": "Incitations à l'agrément hors Grand Lomé et vérification terrain du recensement.",
+      "indicateur": "Habitants par auto-école, par région",
+      "horizon": "36 mois"
+     }
+    ]
+   },
+   {
+    "id": "Entretien du réseau",
+    "title": "Priorité 3 — Entretien du réseau",
+    "icon": "fa-layer-group",
+    "actions": [
+     {
+      "tag": "C1",
+      "label": "Prioriser les tronçons dégradés",
+      "constat": "Routes revêtues 2020 : 34 % bon, 26 % mauvais, 20 % en travaux. Tronçons les plus dégradés : TGRKRRRN19 KARA-KABOU-FRE GHANA (76,2 km); TGRCRRRN1 BABAME-SOKODE-ALEHERIDE (59,1 km); TGRCRRRN14 SOKODE-TCHAMBA-KABOLI-FRE BENIN (59,1 km). Savanes (Indicatif, couverture 45 %) : 20 % de mauvais état.",
+      "ou": "Tronçons nommés (état national 2020, sans région)",
+      "action": "Programme d'entretien périodique ciblé sur les tronçons en mauvais état avant leur dégradation complète.",
+      "indicateur": "Part de routes revêtues en mauvais état (25,6 % en 2020)",
+      "horizon": "12 à 36 mois"
+     },
+     {
+      "tag": "C2",
+      "label": "Compléter le linéaire classé",
+      "constat": "4,16 km classés pour 10 000 hab. au niveau national ; Grand Lomé 0,74 ; 1 préfecture sans route classée (Mô).",
+      "ou": "Plus faibles km / 10 000 hab. : Tandjoaré (1,89), Tône (2,71), Cinkassé (2,95), Kpendjal-Ouest (3,14)",
+      "action": "Inventorier et programmer les routes et voiries à classer dans ces préfectures (peu de voirie urbaine dans le fichier).",
+      "indicateur": "km de routes classées pour 10 000 hab., par préfecture",
+      "horizon": "24 à 48 mois"
+     },
+     {
+      "tag": "C3",
+      "label": "Étendre le suivi de l'état du réseau",
+      "constat": "L'état du réseau n'existe que pour 2020 et sans région ; jointure aux routes classées : couverture de 0 % (Grand Lomé) à 90,6 % (Kara).",
+      "ou": "Savanes",
+      "action": "Relever l'état annuellement avec les identifiants des routes classées, en couvrant d'abord les régions non renseignées.",
+      "indicateur": "Couverture du linéaire classé par un état daté (objectif ≥ 80 % par région)",
+      "horizon": "12 mois"
+     }
+    ]
+   }
+  ]
+ }
+}
